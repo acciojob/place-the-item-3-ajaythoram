@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	flex-direction:column;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	gap:5px;
+}
+p{
+	background: green;
+}
